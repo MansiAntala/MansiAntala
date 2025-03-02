@@ -1,4 +1,3 @@
-###
 - 👋 Hi, I’m @MansiAntala
 - 🚀 AI/ML Enthusiast | Computer Vision & Deep Learning Explorer
 - 💡 Passionate about AI/ML and always eager to learn something new
